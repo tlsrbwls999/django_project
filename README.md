@@ -1,1 +1,1 @@
-# django_project
+장고로 일단 만들어보자~~
